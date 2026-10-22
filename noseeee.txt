@@ -1,0 +1,6 @@
+print("Hello Wordl")
+print("Hola mundo")
+print("Hola como estas")
+print("Bien y tu")
+print("Que bien")
+print("Gracias")
